@@ -1,0 +1,18 @@
+
+java MakeDrawings < ../f020 > fpic_020
+java MakeDrawings < ../f024 > fpic_024
+java MakeDrawings < ../f026 > fpic_026
+java MakeDrawings < ../f028 > fpic_028
+
+java MakeDrawings < ../f030 > fpic_030
+java MakeDrawings < ../f032 > fpic_032
+java MakeDrawings < ../f034 > fpic_034
+java MakeDrawings < ../f036 > fpic_036
+java MakeDrawings < ../f038 > fpic_038
+
+java MakeDrawings < ../f040 > fpic_040
+java MakeDrawings < ../f042 > fpic_042
+java MakeDrawings < ../f044 > fpic_044
+java MakeDrawings < ../f046 > fpic_046
+java MakeDrawings < ../f048 > fpic_048
+
